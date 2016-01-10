@@ -9,7 +9,7 @@ To start off, install  Anaconda for Python 3. This is what I recommend: https://
 There is a miniconda version for those short of space, but I haven't tried it.
 
 
-**Next: **
+**Next:**
 
 Download the environment.yml file in this directory.
 
