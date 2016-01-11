@@ -33,6 +33,6 @@ On Linux, Conda just works in normal bash, last time I tried.
 
 For details, see here: http://conda.pydata.org/docs/using/envs.html
 
-Now, when you run python or ipython notebook, it will use the *data* environment's versrion of Python.
+Now, when you run python or ipython notebook, it will use the *data* environment's version of Python.
 
 
