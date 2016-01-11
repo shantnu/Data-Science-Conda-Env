@@ -37,4 +37,4 @@ Now, when you run python or ipython notebook, it will use the *data* environment
 
 Once you have created the conda environment, the 2nd time around, you don't need to run activate again, as (at least on Windows) Anaconda creates a shortcut to your environment:
 
-!(https://raw.githubusercontent.com/shantnu/Data-Science-Conda-Env/master/conda.png)
+![](https://raw.githubusercontent.com/shantnu/Data-Science-Conda-Env/master/conda.png)
