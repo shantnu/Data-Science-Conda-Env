@@ -35,6 +35,6 @@ For details, see here: http://conda.pydata.org/docs/using/envs.html
 
 Now, when you run python or ipython notebook, it will use the *data* environment's version of Python.
 
-Once you have created the conda environment, the 2nd time around, you don't need to run activate again, as (at least on Windows) Anaconda creates a shortcut to your environment:
+Once you have created the conda environment, the 2nd time around, you don't need to run activate again, as (at least on Windows) Anaconda creates a shortcut to your environment. See the highlighted parts below, Anaconda has created short cuts to the Data environment:
 
 ![](https://raw.githubusercontent.com/shantnu/Data-Science-Conda-Env/master/conda.png)
